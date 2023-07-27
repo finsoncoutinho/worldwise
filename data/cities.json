@@ -35,42 +35,6 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
-    },
-    {
-      "cityName": "Shetland Islands",
-      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
-      "emoji": "🇬🇧",
-      "date": "2023-07-27T07:13:45.658Z",
-      "notes": "test",
-      "position": {
-        "lat": "60.42469913713462",
-        "lng": "-1.1645507812500002"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Orkney Islands",
-      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
-      "emoji": "🇬🇧",
-      "date": "2023-07-28T07:18:12.000Z",
-      "notes": "test",
-      "position": {
-        "lat": "58.99531118795094",
-        "lng": "-2.65869140625"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "Mormugao",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2023-07-27T07:22:46.431Z",
-      "notes": "testtttt",
-      "position": {
-        "lat": "15.39543183321259",
-        "lng": "73.80958557128908"
-      },
-      "id": 98443200
     }
   ]
 }
